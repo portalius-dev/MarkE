@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-informational?logo=python&style=flat&logoColor=white&color=3776AB&labelColor=3776AB)  
 ![Version](https://img.shields.io/badge/Version-1.0-blue)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+![License](https://img.shields.io/badge/License-GPL-green)  
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-lightgrey)  
 
 ![Markdown Editor Preview](https://raw.githubusercontent.com/portalius-dev/MarkE/main/readme-bin/preview.png)  
