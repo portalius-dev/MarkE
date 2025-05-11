@@ -60,7 +60,8 @@
 2. See real-time preview on the right  
 3. Use the toolbar for:  
    - Saving files (`.md`, `.html`)  
-   - Exporting documents  
+   - Exporting documents
+   - Open file in browser.
 
 ## 📜 License  
 This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details.
