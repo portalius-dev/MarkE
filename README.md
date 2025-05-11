@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-GPL-green)  
 ![Platform](https://img.shields.io/badge/Platform-Windows%20|%20Linux%20|%20macOS-lightgrey)  
 
-![Markdown Editor Preview](https://raw.githubusercontent.com/portalius-dev/MarkE/main/readme-bin/preview.png)  
+![Markdown Editor Preview](https://github.com/portalius-dev/MarkE/blob/main/readme-bin/image.png)  
 
 ## ✨ Features  
 - Real-time Markdown preview  
